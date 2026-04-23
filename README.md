@@ -23,6 +23,7 @@ Web security write-ups from TryHackMe labs covering web fundamentals, applicatio
 | Room | Difficulty | Topics | Write-Up |
 |------|-----------|--------|----------|
 | Walking An Application | Easy | page source analysis, inspector, debugger, network | [📄 Read](web-hacking/app.md) |
+| Content Discovery | Easy | manual discovery, OSINT, automated discovery | [📄 Read](web-hacking/content-discovery.md) 
 
 ---
 
