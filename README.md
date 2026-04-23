@@ -15,14 +15,14 @@ Web security write-ups from TryHackMe labs covering web fundamentals, applicatio
 ### 🌍 Web Fundamentals
 | Room | Difficulty | Topics | Write-Up |
 |------|-----------|--------|----------|
-| DNS in Detail | Easy | web app architecture, web servers, WAF, AV, defence in depth | [📄 Read](web-fundamentals/dns.md) |
-| HTTP in Detail | Easy | URLs, HTTP methods, request/response, headers, status codes, cookies | [📄 Read](web-fundamentals/http.md) |
-| Websites | Easy | JS overview, DOM, variables, functions, client-side scripting | [📄 Read](web-fundamentals/websites.md) |
+| DNS in Detail | Easy | domain hierarchy, record types, DNS resolution process | [📄 Read](web-fundamentals/dns.md) |
+| HTTP in Detail | Easy | URLs, request/response structure, methods, status codes, headers, cookies | [📄 Read](web-fundamentals/http.md) |
+| Websites | Easy | HTML structure, JavaScript, HTML injection vs XSS | [📄 Read](web-fundamentals/websites.md) |
 
 ### 🌍 Web Hacking
 | Room | Difficulty | Topics | Write-Up |
 |------|-----------|--------|----------|
-| Walking An Application | Easy |  | [📄 Read](web-hacking/app.md) |
+| Walking An Application | Easy | page source analysis, inspector, debugger, network | [📄 Read](web-hacking/app.md) |
 
 ---
 
