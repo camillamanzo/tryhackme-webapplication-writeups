@@ -23,9 +23,11 @@ Web security write-ups from TryHackMe labs covering web fundamentals, applicatio
 | Room | Difficulty | Topics | Write-Up |
 |------|-----------|--------|----------|
 | Walking An Application | Easy | page source analysis, inspector, debugger, network | [📄 Read](web-hacking/app.md) |
-| Content Discovery | Easy | manual discovery, OSINT, automated discovery | [📄 Read](web-hacking/content-discovery.md) 
-| Subdomain Enumeration | Easy | OSINT, DNS brute force, virtual host fuzzing | [📄 Read](web-hacking/subdom-enum.md) 
-| Authentication Bypass | Easy | username enumeration, brute force, logic flaws, cookie tampering | [📄 Read](web-hacking/auth-bypass.md) 
+| Content Discovery | Easy | manual discovery, OSINT, automated discovery | [📄 Read](web-hacking/content-discovery.md) |
+| Subdomain Enumeration | Easy | OSINT, DNS brute force, virtual host fuzzing | [📄 Read](web-hacking/subdom-enum.md) |
+| Authentication Bypass | Easy | username enumeration, brute force, logic flaws, cookie tampering | [📄 Read](web-hacking/auth-bypass.md) |
+| IDOR | Easy | encoded/hashed/unpredictable IDs, IDOR locations, exploitation workflow | [📄 Read](web-hacking/idor.md) |
+| File Inclusion | Medium | path traversal, LFI scenarios & bypasses, RFI, remediation | [📄 Read](web-hacking/file-inclusion.md) |
 
 ---
 
