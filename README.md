@@ -28,6 +28,7 @@ Web security write-ups from TryHackMe labs covering web fundamentals, applicatio
 | Authentication Bypass | Easy | username enumeration, brute force, logic flaws, cookie tampering | [📄 Read](web-hacking/auth-bypass.md) |
 | IDOR | Easy | encoded/hashed/unpredictable IDs, IDOR locations, exploitation workflow | [📄 Read](web-hacking/idor.md) |
 | File Inclusion | Medium | path traversal, LFI scenarios & bypasses, RFI, remediation | [📄 Read](web-hacking/file-inclusion.md) |
+| SSRF | Medium | regular vs blind SSRF, attack scenarios, finding SSRF, bypassing deny/allow lists, open redirect | [📄 Read](web-hacking/ssrf.md) |
 
 ---
 
