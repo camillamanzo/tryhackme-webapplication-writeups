@@ -29,6 +29,7 @@ Web security write-ups from TryHackMe labs covering web fundamentals, applicatio
 | IDOR | Easy | encoded/hashed/unpredictable IDs, IDOR locations, exploitation workflow | [📄 Read](web-hacking/idor.md) |
 | File Inclusion | Medium | path traversal, LFI scenarios & bypasses, RFI, remediation | [📄 Read](web-hacking/file-inclusion.md) |
 | SSRF | Medium | regular vs blind SSRF, attack scenarios, finding SSRF, bypassing deny/allow lists, open redirect | [📄 Read](web-hacking/ssrf.md) |
+| XSS | Medium | reflected, stored, DOM-based & blind XSS, payloads, context escaping, polyglots | [📄 Read](web-hacking/xss.md) |
 
 ---
 
