@@ -30,6 +30,7 @@ Web security write-ups from TryHackMe labs covering web fundamentals, applicatio
 | File Inclusion | Medium | path traversal, LFI scenarios & bypasses, RFI, remediation | [📄 Read](web-hacking/file-inclusion.md) |
 | SSRF | Medium | regular vs blind SSRF, attack scenarios, finding SSRF, bypassing deny/allow lists, open redirect | [📄 Read](web-hacking/ssrf.md) |
 | XSS | Medium | reflected, stored, DOM-based & blind XSS, payloads, context escaping, polyglots | [📄 Read](web-hacking/xss.md) |
+| Race Conditions | Medium | multi-threading, web app architecture, exploitation with Burp, detection & mitigation | [📄 Read](web-hacking/race-conditions.md) |
 
 ---
 
