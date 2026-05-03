@@ -31,7 +31,13 @@ Web security write-ups from TryHackMe labs covering web fundamentals, applicatio
 | SSRF | Medium | regular vs blind SSRF, attack scenarios, finding SSRF, bypassing deny/allow lists, open redirect | [📄 Read](web-hacking/ssrf.md) |
 | XSS | Medium | reflected, stored, DOM-based & blind XSS, payloads, context escaping, polyglots | [📄 Read](web-hacking/xss.md) |
 | Race Conditions | Medium | multi-threading, web app architecture, exploitation with Burp, detection & mitigation | [📄 Read](web-hacking/race-conditions.md) |
+| Command Injection | Medium | blind vs verbose injection, shell operators, Linux/Windows payloads, remediation | [📄 Read](web-hacking/command-injection.md) |
+| SQL & SQL Injection | Medium | SQL fundamentals, in-band/blind/out-of-band SQLi, union-based exploitation, remediation | [📄 Read](web-hacking/sqli.md) |
 
+### 🌍 Burp Suite
+| Room | Difficulty | Topics | Write-Up |
+|------|-----------|--------|----------|
+| Burp Suite Overview | Easy | proxy setup, FoxyProxy, TLS certificates, site map, scope, XSS via proxy | [📄 Read](burp-suite/overview.md) |
 ---
 
 ## 🛠️ Tools Used
