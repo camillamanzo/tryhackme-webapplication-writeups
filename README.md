@@ -39,6 +39,7 @@ Web security write-ups from TryHackMe labs covering web fundamentals, applicatio
 |------|-----------|--------|----------|
 | Burp Suite Overview | Easy | proxy setup, FoxyProxy, TLS certificates, site map, scope, XSS via proxy | [📄 Read](burp-suite/overview.md) |
 | Burp Suite Repeater | Easy | interface, message analysis, Inspector, SQLi exploitation walkthrough | [📄 Read](burp-suite/repeater.md) |
+| Burp Suite Intruder | Easy | attack types, payload configuration, brute force, CSRF token macros | [📄 Read](burp-suite/intruder.md) |
 ---
 
 ## 🛠️ Tools Used
@@ -76,27 +77,6 @@ Takeaways, new techniques, and how they connect to real-world scenarios.
 ### Tools & Commands Used
 Quick reference of commands and flags used in the room.
 ```
-
----
-
-## 🎯 Learning Path Progress
-
-- [ ] Web Security Essentials
-- [ ] Web Application Basics
-- [ ] JavaScript Essentials
-- [ ] SQL Fundamentals
-- [ ] Burp Suite Basics
-- [ ] Burp Suite Repeater
-- [ ] SQL Injection
-- [ ] Cross-Site Scripting (XSS)
-- [ ] Command Injection
-- [ ] Upload Vulnerabilities
-- [ ] OWASP Top 10 — IAAA Failures
-- [ ] OWASP Top 10 — Application Design Overflow
-- [ ] OWASP Top 10 — Insecure Data Handling
-- [ ] SQLMap
-- [ ] Ffuf
-- [ ] Pickle Rick
 
 ---
 
