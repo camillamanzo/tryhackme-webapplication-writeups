@@ -40,6 +40,8 @@ Web security write-ups from TryHackMe labs covering web fundamentals, applicatio
 | Burp Suite Overview | Easy | proxy setup, FoxyProxy, TLS certificates, site map, scope, XSS via proxy | [📄 Read](burp-suite/overview.md) |
 | Burp Suite Repeater | Easy | interface, message analysis, Inspector, SQLi exploitation walkthrough | [📄 Read](burp-suite/repeater.md) |
 | Burp Suite Intruder | Easy | attack types, payload configuration, brute force, CSRF token macros | [📄 Read](burp-suite/intruder.md) |
+| Burp Suite Other Modules | Easy | Decoder, Comparer, Sequencer, Organiser | [📄 Read](burp-suite/other-modules.md) |
+| Burp Suite Extensions | Easy | extensions interface, BApp Store, Jython setup, custom API development | [📄 Read](burp-suite/extensions.md) |
 ---
 
 ## 🛠️ Tools Used
