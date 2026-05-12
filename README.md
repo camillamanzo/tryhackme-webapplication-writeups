@@ -1,4 +1,4 @@
-# 🌐 TryHackMe Write-Ups
+ # 🌐 TryHackMe Write-Ups
 
 Web security write-ups from TryHackMe labs covering web fundamentals, application hacking, and offensive web tooling. I have summarised the topics I have studied so far, and will continue to do so for the whole Web Fundamentals learning path.
 
@@ -37,11 +37,18 @@ Web security write-ups from TryHackMe labs covering web fundamentals, applicatio
 ### 🌍 Burp Suite
 | Room | Difficulty | Topics | Write-Up |
 |------|-----------|--------|----------|
-| Burp Suite Overview | Easy | proxy setup, FoxyProxy, TLS certificates, site map, scope, XSS via proxy | [📄 Read](burp-suite/overview.md) |
-| Burp Suite Repeater | Easy | interface, message analysis, Inspector, SQLi exploitation walkthrough | [📄 Read](burp-suite/repeater.md) |
-| Burp Suite Intruder | Easy | attack types, payload configuration, brute force, CSRF token macros | [📄 Read](burp-suite/intruder.md) |
-| Burp Suite Other Modules | Easy | Decoder, Comparer, Sequencer, Organiser | [📄 Read](burp-suite/other-modules.md) |
-| Burp Suite Extensions | Easy | extensions interface, BApp Store, Jython setup, custom API development | [📄 Read](burp-suite/extensions.md) |
+| Overview | Easy | proxy setup, FoxyProxy, TLS certificates, site map, scope, XSS via proxy | [📄 Read](burp-suite/overview.md) |
+| Repeater | Easy | interface, message analysis, Inspector, SQLi exploitation walkthrough | [📄 Read](burp-suite/repeater.md) |
+| Intruder | Easy | attack types, payload configuration, brute force, CSRF token macros | [📄 Read](burp-suite/intruder.md) |
+| Other Modules | Easy | Decoder, Comparer, Sequencer, Organiser | [📄 Read](burp-suite/other-modules.md) |
+| Extensions | Easy | extensions interface, BApp Store, Jython setup, custom API development | [📄 Read](burp-suite/extensions.md) |
+
+### 🔐 OWASP
+| Room | Difficulty | Topics | Write-Up |
+|------|-----------|--------|----------|
+| API Security Top 10 | Easy | BOLA, BUA, excessive data exposure, rate limiting, BFLA | [📄 Read](owasp/api.md) |
+| Juice Shop | Easy | SQLi auth bypass, brute force, FTP null byte, broken access control, DOM & stored XSS | [📄 Read](ctf/juice-shop.md) |
+
 ---
 
 ## 🛠️ Tools Used
