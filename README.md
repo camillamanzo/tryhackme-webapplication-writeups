@@ -47,7 +47,7 @@ Web security write-ups from TryHackMe labs covering web fundamentals, applicatio
 | Room | Difficulty | Topics | Write-Up |
 |------|-----------|--------|----------|
 | API Security Top 10 | Easy | BOLA, BUA, excessive data exposure, rate limiting, BFLA | [📄 Read](owasp/api.md) |
-| Juice Shop | Easy | SQLi auth bypass, brute force, FTP null byte, broken access control, DOM & stored XSS | [📄 Read](ctf/juice-shop.md) |
+| Juice Shop | Easy | SQLi auth bypass, brute force, FTP null byte, broken access control, DOM & stored XSS | [📄 Read](owasp/juice-shop.md) |
 
 ---
 
